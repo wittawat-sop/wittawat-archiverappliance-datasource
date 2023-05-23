@@ -9,13 +9,23 @@
     "author": {
       "name": "Wittawat"
     },
-    "keywords": ["datasource"],
+    "keywords": [
+      "datasource"
+    ],
     "logos": {
-      "small": "img/logo.svg",
-      "large": "img/logo.svg"
+      "small": "img/epics_logo.png",
+      "large": "img/epics_logo.png"
     },
     "links": [],
-    "screenshots": [],
+    "screenshots": [
+      {
+        "name": "Configuration",
+        "path": "img/screenshot_1.png"
+      },{
+        "name":"Query",
+        "path": "img/screenshot_2.png"
+      }
+    ],
     "version": "%VERSION%",
     "updated": "%TODAY%"
   },
